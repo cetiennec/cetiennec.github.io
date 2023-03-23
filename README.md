@@ -1,6 +1,6 @@
-# Sustainability-High-School-Mathematics
+# My book project
 
-Project for the "HUM-433: How People Learn II" course at École polytechnique fédérale de Lausanne
+Personnal project on writing a physics book
 
 ## How to set up jupyter book
 
